@@ -1,0 +1,22 @@
+D:\test application\CorePracticeApplication\CorePracticeApplication\bin\Debug\netcoreapp2.0\CorePracticeApplication.deps.json
+D:\test application\CorePracticeApplication\CorePracticeApplication\bin\Debug\netcoreapp2.0\CorePracticeApplication.runtimeconfig.json
+D:\test application\CorePracticeApplication\CorePracticeApplication\bin\Debug\netcoreapp2.0\CorePracticeApplication.runtimeconfig.dev.json
+D:\test application\CorePracticeApplication\CorePracticeApplication\bin\Debug\netcoreapp2.0\CorePracticeApplication.dll
+D:\test application\CorePracticeApplication\CorePracticeApplication\bin\Debug\netcoreapp2.0\CorePracticeApplication.pdb
+D:\test application\CorePracticeApplication\CorePracticeApplication\obj\Debug\netcoreapp2.0\CorePracticeApplication.csproj.CoreCompileInputs.cache
+D:\test application\CorePracticeApplication\CorePracticeApplication\obj\Debug\netcoreapp2.0\CorePracticeApplication.AssemblyInfoInputs.cache
+D:\test application\CorePracticeApplication\CorePracticeApplication\obj\Debug\netcoreapp2.0\CorePracticeApplication.AssemblyInfo.cs
+D:\test application\CorePracticeApplication\CorePracticeApplication\obj\Debug\netcoreapp2.0\CorePracticeApplication.dll
+D:\test application\CorePracticeApplication\CorePracticeApplication\obj\Debug\netcoreapp2.0\CorePracticeApplication.pdb
+D:\test application\CorePracticeApplication\CorePracticeApplication\obj\Debug\netcoreapp2.0\CorePracticeApplication.csprojAssemblyReference.cache
+D:\Practice\CorePracticeApplication\CorePracticeApplication\CorePracticeApplication\bin\Debug\netcoreapp2.0\CorePracticeApplication.deps.json
+D:\Practice\CorePracticeApplication\CorePracticeApplication\CorePracticeApplication\bin\Debug\netcoreapp2.0\CorePracticeApplication.runtimeconfig.json
+D:\Practice\CorePracticeApplication\CorePracticeApplication\CorePracticeApplication\bin\Debug\netcoreapp2.0\CorePracticeApplication.runtimeconfig.dev.json
+D:\Practice\CorePracticeApplication\CorePracticeApplication\CorePracticeApplication\bin\Debug\netcoreapp2.0\CorePracticeApplication.dll
+D:\Practice\CorePracticeApplication\CorePracticeApplication\CorePracticeApplication\bin\Debug\netcoreapp2.0\CorePracticeApplication.pdb
+D:\Practice\CorePracticeApplication\CorePracticeApplication\CorePracticeApplication\obj\Debug\netcoreapp2.0\CorePracticeApplication.csprojResolveAssemblyReference.cache
+D:\Practice\CorePracticeApplication\CorePracticeApplication\CorePracticeApplication\obj\Debug\netcoreapp2.0\CorePracticeApplication.csproj.CoreCompileInputs.cache
+D:\Practice\CorePracticeApplication\CorePracticeApplication\CorePracticeApplication\obj\Debug\netcoreapp2.0\CorePracticeApplication.AssemblyInfoInputs.cache
+D:\Practice\CorePracticeApplication\CorePracticeApplication\CorePracticeApplication\obj\Debug\netcoreapp2.0\CorePracticeApplication.AssemblyInfo.cs
+D:\Practice\CorePracticeApplication\CorePracticeApplication\CorePracticeApplication\obj\Debug\netcoreapp2.0\CorePracticeApplication.dll
+D:\Practice\CorePracticeApplication\CorePracticeApplication\CorePracticeApplication\obj\Debug\netcoreapp2.0\CorePracticeApplication.pdb
