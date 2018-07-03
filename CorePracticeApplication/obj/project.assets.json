@@ -13259,11 +13259,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Practice\\CorePracticeApplication\\CorePracticeApplication\\CorePracticeApplication\\CorePracticeApplication.csproj",
+      "projectUniqueName": "D:\\abhinav_study\\MyGit\\CorePracticeApplication\\CorePracticeApplication\\CorePracticeApplication.csproj",
       "projectName": "CorePracticeApplication",
-      "projectPath": "D:\\Practice\\CorePracticeApplication\\CorePracticeApplication\\CorePracticeApplication\\CorePracticeApplication.csproj",
+      "projectPath": "D:\\abhinav_study\\MyGit\\CorePracticeApplication\\CorePracticeApplication\\CorePracticeApplication.csproj",
       "packagesPath": "C:\\Users\\abhinav.srivastava\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\CorePracticeApplication\\CorePracticeApplication\\CorePracticeApplication\\obj\\",
+      "outputPath": "D:\\abhinav_study\\MyGit\\CorePracticeApplication\\CorePracticeApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

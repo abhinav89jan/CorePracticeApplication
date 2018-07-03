@@ -20,10 +20,16 @@ namespace CorePracticeApplication.Sorter
                 switch (filter.SortBy)
                 {
                     case "Id":
-                        if (filter.SortDirection == "ASC")
-                            return product.OrderBy(x => x.ProductID);
-                        else
-                            return product.OrderByDescending(x => x.ProductID);
+                        return filter.SortDirection == "ASC" ? product.OrderBy(x => x.ProductID)
+                            : product.OrderByDescending(x => x.ProductID);
+
+                    case "name":
+                        return filter.SortDirection == "ASC" ? product.OrderBy(x => x.Name)
+                            : product.OrderByDescending(x => x.Name);
+
+                    case "cost":
+                        return filter.SortDirection == "ASC" ? product.OrderBy(x => x.StandardCost)
+                            : product.OrderByDescending(x => x.StandardCost);
 
                     default:
                         return product.OrderBy(x => x.ProductID);

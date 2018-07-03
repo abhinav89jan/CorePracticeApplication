@@ -10,16 +10,17 @@ namespace CorePracticeApplication.Controllers
     public class ProductController : Controller
     {
         public IProductManager _productManager;
+
         public ProductController(IProductManager productManager)
         {
             _productManager = productManager;
         }
 
         [HttpGet("Product")]
-        public IEnumerable<string> GetProduct()
+        public IEnumerable<Product> GetProduct()
         {
             var result = _productManager.GetProduct();
-            return result.Select(x => x.Name).ToList();
+            return result.Take(5).ToList();
         }
 
         [HttpGet("ProductById")]
@@ -28,11 +29,12 @@ namespace CorePracticeApplication.Controllers
             var result = _productManager.GetProductById(id);
             return result;
         }
+
         [HttpGet("ProductByFilter")]
-        public IEnumerable<string> GetProductByFilter(ProductFilterApiModel filterModel)
+        public IEnumerable<Product> GetProductByFilter(ProductFilterApiModel filterModel)
         {
             var result = _productManager.GetProductByFilter(filterModel);
-            return result.Select(x => x.Name).ToList();
+            return result.ToList();
         }
     }
 }
